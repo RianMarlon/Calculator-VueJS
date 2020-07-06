@@ -1,6 +1,5 @@
 # Calculator
-![Calculator](/src/assets/imgs/calculator.png)
-
+![Calculator](src/assets/imgs/calculator.gif)
 
 ## Project setup
 ```
