@@ -43,7 +43,6 @@
 
             setOperator(operator) {
                 if(this.index == 0) {
-                    console.log('entrei');
                     this.index = 1;
                     this.operator = operator;
                     this.clearDisplay = true;
@@ -62,7 +61,6 @@
                     catch(e) {
                         console.log(e);
                     }
-                    console.log(this.values[0]);
                     this.values[1] = 0;
 
                     this.displayValue = this.values[0];
